@@ -1,6 +1,6 @@
 {
-  "name": "darkleysmd",
-  "version": "7.0.0",
+  "name": "@darkbotzmd/darkleys",
+  "version": "7.1.0",
   "description": "Baileys Version Darkleys",
   "homepage": "https://github.com/darkbotzmd/Darkleys",
   "main": "lib/index.js",
@@ -15,7 +15,8 @@
     "whatsapp-group",
     "automation",
     "multi-device",
-    "Darkleys"
+    "Darkleys",
+    "Baileys"
   ],
   "scripts": {
     "test": "jest",

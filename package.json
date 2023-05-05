@@ -47,14 +47,14 @@
     "ws": "^8.0.0"
   },
   "peerDependencies": {
-    "@adiwajshing/keyed-db": "^0.2.4",
+    "keyed-db": "^1.0.4",
     "jimp": "^0.16.1",
     "link-preview-js": "^3.0.0",
     "qrcode-terminal": "^0.12.0",
     "sharp": "^0.30.5"
   },
   "peerDependenciesMeta": {
-    "@adiwajshing/keyed-db": {
+    "keyed-db": {
       "optional": true
     },
     "jimp": {
@@ -77,7 +77,7 @@
   ],
   "devDependencies": {
     "@adiwajshing/eslint-config": "git+https://github.com/adiwajshing/eslint-config.git",
-    "@adiwajshing/keyed-db": "^0.2.4",
+    "keyed-db": "^1.0.4",
     "@types/got": "^9.6.11",
     "@types/jest": "^27.5.1",
     "@types/node": "^16.0.0",
